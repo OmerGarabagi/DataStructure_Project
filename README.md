@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a system to track the quality of electrical products using AVL trees in C. Each product is defined by its quality (`QUALITY`) and the time it was added to the system (`TIME`). The system supports various operations, including adding and removing products, querying by quality, and checking the existence of specific quality products.
+This project implements a system to track the quality of electrical products using AVL trees in C++. Each product is defined by its quality (`QUALITY`) and the time it was added to the system (`TIME`). The system supports various operations, including adding and removing products, querying by quality, and checking the existence of specific quality products.
 
 ## Data Structures
 
